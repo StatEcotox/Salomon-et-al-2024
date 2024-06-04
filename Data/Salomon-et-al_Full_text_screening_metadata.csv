@@ -1,0 +1,17 @@
+﻿Variable_name,Description
+ID,numeric publication ID
+WhoTextScreening,Initials of person who screened the publication
+PubID,Publication ID: First author name + publication year
+PubSource,"Source, where we have found the publication"
+FirstAuthor,Name of first author
+Publication Year,Year of publication
+Authors,List of all authors
+Title,Article title
+Journal,Journal name
+DOI,DOI
+DOI Link,Link to publication
+Mortality,Whether mortality was a measured endpoint in the publication [yes/no]
+ctrl_PristineParticle,Whether a control treatment with pristine particles was included [yes/no]
+treat_Ecocorona,Whether a treatment with DOM/ecocorona was included [yes/no]
+KeepForDataExtraction,Whether the publication was used for data extraction [yes/no]
+ReasonForExclusion,"Reason for exclusion, if KeepForDataExtraction == no"

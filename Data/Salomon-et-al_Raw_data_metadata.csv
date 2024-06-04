@@ -1,0 +1,53 @@
+﻿Variable_name,Description
+SampleID,Sample Number
+pub_ID,Publication ID (First Author + Year of publication)
+author,Name of the first author of the publication
+year,Year of publication
+included,Inclusion in meta analysis [yes / no]
+sp_name,Name of species
+clone.strain,Name of Daphnia clone
+polymer,Polymer type
+size_um_mean,Mean particle size in µm
+size_um_SD,Standart deviation of particle size in µm
+size_nm_mean,Mean particle size in nm
+size_nm_SD,Standard deviation of particle size in nm
+shape,"Shape of the particles [spherical, fragment, fiber]"
+modified,Modification of the particles surface present [yes/no]
+mod_type,Type of particle surface modification
+surface_charge,Particles surface charge
+company,Manufacturer of particles
+MP_comments,Additional comments on the used particles
+age_d,Age of individuals at the start of exposure
+generation,Generation of exposed individuals
+food_present,Food provided during toxicity test [yes / no]
+temperature,Temperature during toxicity test
+pH,pH of experimental medium
+DOM_added,DOM added in test medium durign exposure [yes / no]
+DOM_conditioned,Conditioning of MNPs in DOM in the treatment group before toxicity test [yes / no] 
+DOM_cond_dur_h,Duration of MNP conditioning in DOM containing media
+DOM_conc_mg_L,"Concentration of DOM in the test medium; given in mg/L; for DOM in conditioning media and DOM in exposure media, respectively"
+DOM_type,"Type of DOM used for conditioning or added during exposure, respectively"
+DOM_comment,Additional information on used DOM type
+DOM_type_grouped,"Grouped DOM types [humic acid, fulvic acid, metabolites, effluent, natural organic matter, stream water, lake water]"
+exp_time_h,Duration of the experiment in hours
+exp_time_d,Duration of the experiment in days
+conc_p_ml-1,MNP concentration in the test medium; given in particles per ml
+conc_mg_ml-1,MNP concentration in the test medium; given in mg/ml
+conc_mg_l-1,MNP concentration in the test medium; given in mg/L
+c_n_replicates,Number of replicates in the control group (without additional DOM)
+c_ind_per_replicate,Number of individuals per replicate in the control group (without additional DOM)
+c_n_individuals,Total number of individuals in the control group (without additional DOM)
+c_mean,Mean proportion of immobile individuals in the control group (without additional DOM)
+c_SD,Standard deviation to proportion of immobilized individuals in the control group (without addition of DOM)
+c_SE,Standard error to proportion of immobilized individuals in the control group (without addition of DOM)
+c_immobile,Number of immobile individuals in the control group
+c_mobile,Number of mobile individuals in the control group
+t_n_replicates,Number of replicates in the treatment group (additional DOM)
+t_ind_per_replicate,Number of individuals per replicate in thetreatment group (additional DOM)
+t_n_individuals,Total number of individuals in the treatment group (additional DOM)
+t_mean,Mean proportion of  immobile individuals in the treatment group (additional DOM)
+t_SD,Standard deviation to proportion of immobilized individuals in the treatment  group (with addition of DOM)
+t_SE,Standard error to proportion of immobilized individuals in the treatment  group (with addition of DOM)
+t_immobile,Number of immobile individuals in the treatment gorup
+t_mobile,Number of mobile individuals in the treatment gorup
+data_comment,"Exact source of the extracted data in the publication (figure, text, table, figure by metaDigitise)"
