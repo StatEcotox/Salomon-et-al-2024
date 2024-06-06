@@ -5,7 +5,7 @@
 
 This repository provides all data and R code for 
 
-**Salomon S, Grubmüller E, Kropf P, Nickl E, Rühl A, Weigel S, Becker F, Antonio Vital AL, Laforsch C, Schott M, Mair MM. (2024). Effects of dissolved organic matter on the toxicity of micro- and nanoplastic particles to *Daphnia* - a meta-analysis. *Microplastics and Nanoplastics*. ([https://doi.org/](https://doi.org/))**
+**Salomon S, Grubmüller E, Kropf P, Nickl E, Rühl A, Weigel S, Becker F, Antonio Vital AL, Laforsch C, Schott M, Mair MM. (2024). Effects of dissolved organic matter on the toxicity of micro- and nanoplastic particles to *Daphnia* - a meta-analysis. *Microplastics and Nanoplastics*. ([https://doi.org/10.1186/s43591-024-00088-4](https://doi.org/10.1186/s43591-024-00088-4))**
 
 
 *Abstract*
